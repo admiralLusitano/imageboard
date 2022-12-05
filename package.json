@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/admiralLusitano/imageboard/issues"
   },
-  "homepage": "https://github.com/admiralLusitano/imageboard#readme"
+  "homepage": "https://github.com/admiralLusitano/imageboard#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
 }
